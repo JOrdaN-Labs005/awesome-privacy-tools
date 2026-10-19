@@ -222,7 +222,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Photo, Metadata, and Media Privacy
 
-- [Burncaps](https://burncaps.app/) - Caption tool that processes video in the browser, so the footage is never uploaded; the sound leaves only if the user chooses its speech service.
+- [Burncaps](https://burncaps.app/) - Caption tool that processes video in the browser, so the footage is never uploaded; only the sound can leave, to its speech service, which phones use by default with a switch to keep the sound on the phone.
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
